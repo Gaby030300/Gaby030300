@@ -1,4 +1,4 @@
-### Hi there 👋
+![Purple Illustrated Digital Tech Class Google Classroom Header (6)](https://user-images.githubusercontent.com/44000056/215909129-a94debc6-4b3e-49bb-aa53-f5088be285f1.png)
 
 <!--
 **Gaby030300/Gaby030300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
