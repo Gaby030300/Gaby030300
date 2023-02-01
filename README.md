@@ -3,7 +3,9 @@
  💬 I am a computer engineer and frontend developer who is passionate about game development in different genres and interested in the implementation of Serious Games. I am part of the first Jr. Unity Developer Bootcamp developed by Generation Colombia with the support of Unity.
 # STATISTICS ⚡
 ![Gaby030300's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaby030300&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby030300&layout=compact&show_icons=true&theme=radical)](https://github.com/Gaby030300/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaby030300&show_icons=true&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby030300&layout=compact&show_icons=true&theme=radical&align=center)](https://github.com/Gaby030300/github-readme-stats)
+
 <!--
 **Gaby030300/Gaby030300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
