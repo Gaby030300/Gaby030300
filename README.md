@@ -1,4 +1,4 @@
-![Purple Illustrated Digital Tech Class Google Classroom Header (6)](https://user-images.githubusercontent.com/44000056/215909129-a94debc6-4b3e-49bb-aa53-f5088be285f1.png)
+![_Blue Purple Futuristic Technology Linkedin Banner (5)](https://github.com/Gaby030300/Gaby030300/assets/44000056/36731204-e6d9-429e-b859-d20dc1ebf9e6)
 # ABOUT ME ✨
  💬 I am a computer engineer and frontend developer who is passionate about game development in different genres and interested in the implementation of Serious Games. I am part of the first Jr. Unity Developer Bootcamp developed by Generation Colombia with the support of Unity.
 # STATISTICS ⚡
